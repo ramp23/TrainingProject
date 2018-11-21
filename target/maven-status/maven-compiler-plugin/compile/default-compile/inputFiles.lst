@@ -1,24 +1,24 @@
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/config/CoreConfig.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/entities/ParentEntity.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/repository/Repository.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/ArticleController.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/util/ParametersBuilder.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/CategoryService.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/SlideService.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/common/MappedViews.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/GlobalControllerAdvice.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/SearchController.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/ParentService.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/config/MVCConfig.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/entities/Slide.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/HomeController.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/ArticlesServiceImpl.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/SlideServiceImpl.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/Service.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/config/JPAConfig.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/repository/RepositoryJPAImpl.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/ArticlesService.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/entities/Article.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/entities/Category.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/services/CategoryServiceImpl.java
-/home/ilya/Рабочий стол/TrainingProject/src/main/java/by/belkevich/controllers/common/MappedURLs.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/util/ParametersBuilder.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/entities/Category.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/repository/Repository.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/CategoryServiceImpl.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/CategoryService.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/ArticlesServiceImpl.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/entities/ParentEntity.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/SearchController.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/config/MVCConfig.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/ParentService.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/ArticlesService.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/common/MappedURLs.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/SlideServiceImpl.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/ArticleController.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/HomeController.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/config/JPAConfig.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/SlideService.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/config/CoreConfig.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/repository/RepositoryJPAImpl.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/GlobalControllerAdvice.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/controllers/common/MappedViews.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/services/Service.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/entities/Article.java
+/root/.jenkins/workspace/TrainingProject/src/main/java/by/belkevich/entities/Slide.java
