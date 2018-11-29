@@ -1,2 +1,2 @@
-/root/.jenkins/workspace/TrainingProject/src/test/java/config/TestJPAConfig.java
-/root/.jenkins/workspace/TrainingProject/src/test/java/services/TestArticleService.java
+/root/.jenkins/jobs/TrainingProjectCI/workspace/src/test/java/services/TestArticleService.java
+/root/.jenkins/jobs/TrainingProjectCI/workspace/src/test/java/config/TestJPAConfig.java
